@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "express",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "terama_20819u",
+    "password": null,
+    "database": "express",
+    "host": "www.db4free.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "terama_20819u",
+    "password": null,
+    "database": "express",
+    "host": "www.db4free.net",
+    "dialect": "mysql"
+  }
+}
